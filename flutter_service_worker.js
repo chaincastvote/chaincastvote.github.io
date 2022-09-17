@@ -31,10 +31,10 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/loading.gif": "950265cdf65d152bf3c7d8bb87b2a117",
 "icons/logo.jpg": "0c95019134d8fd2304e70cdb3bc3c94d",
-"index.html": "d35cba9b6c7682ef2a656ff2b38652dc",
-"/": "d35cba9b6c7682ef2a656ff2b38652dc",
+"index.html": "652a9beed2f5f394389ecf3f27ce513e",
+"/": "652a9beed2f5f394389ecf3f27ce513e",
 "logo.jpg": "0c95019134d8fd2304e70cdb3bc3c94d",
-"main.dart.js": "39cbf3cb9095f6afa093b6f3c35342b8",
+"main.dart.js": "2ae6ec8fe4022dab9e23f7ffd1312bb7",
 "manifest.json": "dcc03ad7d710a47a65708ce28f959311",
 "version.json": "2df2fecd4c6b17d5f3aa900da53738d0"
 };
